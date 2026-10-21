@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/atomic-layer-etching-cycle-explainer/
 
+Repository: https://github.com/mizcausevic-dev/atomic-layer-etching-cycle-explainer
+
 ## What this is
 
 An interactive anatomy plate for Atomic Layer Etching Cycle. Play, scrub, or jump the five stages. The same frame always draws the same picture.
